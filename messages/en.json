@@ -1,0 +1,34 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "services": "Services"
+  },
+  "hero": {
+    "title": "Welcome to Our Multi-Language Website",
+    "subtitle": "Experience seamless communication across languages",
+    "description": "Our platform supports English, Farsi, and Arabic with full RTL support and cultural adaptation.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Key Features",
+    "feature1": {
+      "title": "Multi-Language Support",
+      "description": "Seamlessly switch between English, Farsi, and Arabic languages."
+    },
+    "feature2": {
+      "title": "RTL Support",
+      "description": "Full right-to-left text direction support for Arabic and Farsi."
+    },
+    "feature3": {
+      "title": "Cultural Adaptation",
+      "description": "Content and design adapted for different cultural contexts."
+    }
+  },
+  "language": {
+    "switch": "Switch Language",
+    "current": "Current Language: English"
+  }
+}
